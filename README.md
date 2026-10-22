@@ -1,12 +1,12 @@
-# Indicator Foundry
+# SeriesSmith
 
 A free, public toolkit that turns official government statistics releases into standardized data products, using Claude (Claude Code or claude.ai) as the working agent.
 
-The data behind premium economic databases is public. What subscribers have historically paid for is the labor of standardizing it: reading messy official releases, translating them, normalizing names and units, and arranging the figures into clean, comparable series. Indicator Foundry gives that capability away. It contains a data product schema, a set of agent instructions, and a verification protocol that together let anyone with a Claude subscription generate the same class of data products, from the same public sources, on demand.
+The data behind premium economic databases is public. What subscribers have historically paid for is the labor of standardizing it: reading messy official releases, translating them, normalizing names and units, and arranging the figures into clean, comparable series. SeriesSmith gives that capability away. It contains a data product schema, a set of agent instructions, and a verification protocol that together let anyone with a Claude subscription generate the same class of data products, from the same public sources, on demand.
 
 ## What this is
 
-Indicator Foundry is a working method, packaged as a repository:
+SeriesSmith is a working method, packaged as a repository:
 
 - A **schema** that defines exactly what a standardized data product looks like: the columns, the naming conventions, the unit conventions, and the layouts for the accompanying report and audit files.
 - An **agent instruction file** (`CLAUDE.md`) that tells Claude how to convert one official release into one standards-compliant product, step by step.

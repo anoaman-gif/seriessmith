@@ -1,6 +1,6 @@
 # The Method
 
-This document describes how Indicator Foundry turns a government statistics release into a standardized data product, how the verification protocol works, and where the method can fail. It is written for a reader evaluating the project: a reviewer, a collaborator, or a skeptic. The claims here are deliberately plain. The method's credibility is the project.
+This document describes how SeriesSmith turns a government statistics release into a standardized data product, how the verification protocol works, and where the method can fail. It is written for a reader evaluating the project: a reviewer, a collaborator, or a skeptic. The claims here are deliberately plain. The method's credibility is the project.
 
 ## 1. From release to product
 
