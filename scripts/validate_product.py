@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate an Indicator Foundry data product against the schema.
+"""Validate an SeriesSmith data product against the schema.
 
 Usage:
     python3 scripts/validate_product.py outputs/<release-slug>
