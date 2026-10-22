@@ -1,6 +1,6 @@
 # Product Schema
 
-This document defines the standard data product for Indicator Foundry. Every conversion must conform to it exactly. Consistency across releases is what makes products comparable, and comparability is the value of the product.
+This document defines the standard data product for SeriesSmith. Every conversion must conform to it exactly. Consistency across releases is what makes products comparable, and comparability is the value of the product.
 
 ## 1. The dataset: `data.csv`
 
